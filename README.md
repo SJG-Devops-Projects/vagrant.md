@@ -1,2 +1,2 @@
-## vagrant.md
-# Vagrant usage and virtual environment management.
+# vagrant.md
+## Vagrant usage and virtual environment management.
