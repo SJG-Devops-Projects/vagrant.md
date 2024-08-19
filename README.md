@@ -24,4 +24,7 @@ The Virtualbox installation will start.
 
 You might get a warning asking if you would like virtualbox to install the device software on your Windows operating system, click install. 
 
+
+![Screenshot 2024-08-19 094933](https://github.com/user-attachments/assets/ba7c2330-66a0-45a4-9500-c84ded3ec1fd)
+
 Once the installation is completed, click the finish button to exit the setup wizard.
