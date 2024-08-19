@@ -17,4 +17,11 @@ Follow the prompt to install on your system.
 When asked if you want the app to make changes on your device, click "yes".
 
 ![Screenshot 2024-08-19 094501](https://github.com/user-attachments/assets/1f6bcfd3-6e3c-4c0d-8075-3616d6b62c2b)
-Installation will start.
+
+The Virtualbox installation will start.
+
+![Screenshot 2024-08-19 094852](https://github.com/user-attachments/assets/ed51a57b-6676-48aa-af25-366ed8888177)
+
+You might get a warning asking if you would like virtualbox to install the device software on your Windows operating system, click install. 
+
+Once the installation is completed, click the finish button to exit the setup wizard.
