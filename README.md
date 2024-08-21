@@ -16,7 +16,7 @@ Follow the prompt to install on your system.
 
 When asked if you want the app to make changes on your device, click "yes".
 
-![Screenshot 2024-08-19 094501](https://github.com/user-attachments/assets/1f6bcfd3-6e3c-4c0d-8075-3616d6b62c2b)
+![Screenshot 2024-08-19 094501](https://github.com/user-attachments/assets/194ce982-46e4-42cc-a4e8-379a705bb0d0)
 
 The Virtualbox installation will start.
 
