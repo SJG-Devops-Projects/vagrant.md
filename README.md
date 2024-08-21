@@ -2,7 +2,8 @@
 --------------------------------------------------
 This project demonstrate the understanding of Vagrant by setting up and managing a development environment using Vagrant. This task shows the conpetence in creating, configuring and managing virtual environments. 
 ## Task Description:
-1. Install Vagrant and VirtualBox
+### 1. Install Vagrant and VirtualBox
+   
 Search for virtualbox on google. Click on the download button on the displayed page.
  ![Screenshot 2024-08-19 090445](https://github.com/user-attachments/assets/9bb04cb0-928e-4f43-8551-1d0c5ac102c7)
 
@@ -47,6 +48,9 @@ Accept the terms and click on install.
 
 ![Screenshot 2024-08-08 125758](https://github.com/user-attachments/assets/8a543639-f3f6-4edc-9086-6bc00a8c524f)
 
+The installation will start and once it is completed, you have Vagrant installed on your system.
+
+![Screenshot 2024-08-08 125834](https://github.com/user-attachments/assets/72a3286a-1fd2-421d-b90e-9fc8ae4eda0f)
 
 
 
