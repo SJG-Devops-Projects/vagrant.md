@@ -92,10 +92,9 @@ CPUs: 1 cores
 
 ![Screenshot 2024-08-21 165602](https://github.com/user-attachments/assets/c432af28-52cb-4aff-9dbd-3b9e6bc2f9af)
 
-f
 
-![Screenshot 2024-08-21 165707](https://github.com/user-attachments/assets/4645769f-7a93-4368-80a7-3bcd960518c5)
 
+![Screenshot 2024-08-21 175306](https://github.com/user-attachments/assets/c249ac28-e8c0-43b7-abc3-4105c20ca326)
 
 s
 
