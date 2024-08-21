@@ -156,17 +156,29 @@ sudo systemctl start nginx
 ```
 ![Screenshot 2024-08-11 234047](https://github.com/user-attachments/assets/9b27502e-68fd-415f-8197-1717b96da2a5)
 
+On your vagrantfile, type the code below to configure the shell script.
+
+```
+ config.vm.provision "shell", path: "script.sh"
+```
+
 On your terminal type the code below to provision the machine.
 
 ```
 vagrant reload --provision
 ```
+![Screenshot 2024-08-12 101208](https://github.com/user-attachments/assets/2fba0988-8d71-4330-82b4-ef5a284d52e3)
 
 Then type the following code to connect the guest machine from the host.
 
 ```
 vagrant ssh
 ```
+![Screenshot 2024-08-18 210758](https://github.com/user-attachments/assets/ed4b698c-c667-4d90-bdb6-e1ba00dafae3)
+
+
+
+
 
 
 
