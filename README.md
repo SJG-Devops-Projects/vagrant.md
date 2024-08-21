@@ -100,7 +100,7 @@ CPUs: 1 cores
 
 ![Screenshot 2024-08-21 170707](https://github.com/user-attachments/assets/319e089c-2124-4955-9df6-3f7d90281030)
 
-Copy the generated configuration file into your Vagrantfile on your VS Code.
+Copy the generated configuration file into your Vagrantfile on your VS Code and save.
 
 ![Screenshot 2024-08-11 213453](https://github.com/user-attachments/assets/05472675-8432-4a27-a512-41dc7ba8e370)
 
@@ -119,13 +119,52 @@ vagrant status
 ```
 ![Screenshot 2024-08-11 213734](https://github.com/user-attachments/assets/eeb4ab86-6c3f-4d28-9d91-4990a67e96d5)
 
-Next is the network. To forward port 8080 on the host to port 80 on the guest, type the code below in your vagrantfile.
+Next is the network. To forward port 8080 on the host to port 80 on the guest, type the code below in your vagrantfile and save.
 
 ```
 config.vm.network "forwarded_port", guest: 80, host: 8080
 ```
 
 ![Screenshot 2024-08-11 215352](https://github.com/user-attachments/assets/bfcbbca6-e11b-4115-abb5-a1fdc4dded35)
+
+Type vagrant up on your terminal, to provision the code.
+
+![Screenshot 2024-08-11 215450](https://github.com/user-attachments/assets/8438b3b6-9476-4696-995d-5e51dc49683f)
+
+### 3. Provision the Virtual Machine.
+
+Provisioning a virtual machine in Vagrant allows you to automatically install software, adjust configurations. Provisioning can be done manually but using the provisioning systems built-in to Vagrant, automates the process so that it is repeatable. Most importantly, it requires no human intervension, you can have a fully ready-to-go work environment with a single command.
+
+Provisioning the virtual machine with script can be done in two ways.
+
+a. using an inline script.
+
+b. using an external script. 
+
+In this project, we would be using an external script to provision the virtual machine.
+
+To start with, create a file named script.sh in the same location where you have your vagrantfile.
+
+Open the file and paste in the following codes and save.
+
+```
+#!/bin/bash
+
+sudo apt update -y
+sudo apt install nginx -y
+sudo systemctl start nginx
+```
+
+On your terminal type the code below to provision the machine.
+
+```
+vagrant reload --provision
+```
+Then type the following code to connect the guest machine from the host.
+
+```
+vagrant ssh
+```
 
 
 
