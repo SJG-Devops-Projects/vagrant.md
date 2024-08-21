@@ -104,8 +104,16 @@ Copy the generated configuration file into your Vagrantfile on your VS Code.
 
 ![Screenshot 2024-08-11 213453](https://github.com/user-attachments/assets/05472675-8432-4a27-a512-41dc7ba8e370)
 
+Type the code below on your terminal to create and provision the guest machine.
+
+```
+vagrant up
+ ```
+
+![Screenshot 2024-08-11 213703](https://github.com/user-attachments/assets/cf0d6497-e1a5-49e4-ac77-5ef7c27fc027)
 
 
+![Screenshot 2024-08-11 213734](https://github.com/user-attachments/assets/eeb4ab86-6c3f-4d28-9d91-4990a67e96d5)
 
 
 
