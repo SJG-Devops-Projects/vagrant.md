@@ -161,6 +161,7 @@ On your vagrantfile, type the code below to configure the shell script.
 ```
  config.vm.provision "shell", path: "script.sh"
 ```
+![Screenshot 2024-08-18 210758](https://github.com/user-attachments/assets/ed4b698c-c667-4d90-bdb6-e1ba00dafae3)
 
 On your terminal type the code below to provision the machine.
 
@@ -174,7 +175,7 @@ Then type the following code to connect the guest machine from the host.
 ```
 vagrant ssh
 ```
-![Screenshot 2024-08-18 210758](https://github.com/user-attachments/assets/ed4b698c-c667-4d90-bdb6-e1ba00dafae3)
+
 
 
 
