@@ -64,6 +64,11 @@ Open your newly created folder, right click and then scroll down to open in term
 
 ![Screenshot 2024-08-21 160532](https://github.com/user-attachments/assets/89dd71cb-25d4-4c6e-a2dd-b89364955ea4)
 
+![Screenshot 2024-08-21 164809](https://github.com/user-attachments/assets/6d8bedc3-d261-45bf-a495-42a163e646dd)
+
+![Screenshot 2024-08-21 164850](https://github.com/user-attachments/assets/a22580cd-f0aa-4a82-9499-6dc7bb7cdaa5)
+
+
 Create a Vagrantfile by initializing Vagrant indicating the base box with the code below.
 
 ``` 
