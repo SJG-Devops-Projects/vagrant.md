@@ -30,3 +30,5 @@ You might get a warning asking if you would like virtualbox to install the devic
 Once the installation is completed, click the finish button to exit the setup wizard and launch your virtualbox.
 
 ![Screenshot 2024-08-19 102922](https://github.com/user-attachments/assets/8f4c21cb-82e1-4be6-8a72-2e7237114c21)
+
+Next, search for Vagrant on Google to download it.
