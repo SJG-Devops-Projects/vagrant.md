@@ -62,6 +62,13 @@ Open your newly created folder, right click and then scroll down to open in term
 
 ![Screenshot 2024-08-21 142659](https://github.com/user-attachments/assets/7497015c-d53d-42a3-9f8b-6284df854766)
 
+![Screenshot 2024-08-21 160532](https://github.com/user-attachments/assets/89dd71cb-25d4-4c6e-a2dd-b89364955ea4)
+
+Create a Vagrantfile by initializing Vagrant indicating the base box with the code below.
+
+``` Vagrant init ubuntu/bionic64 ```
+
+![Screenshot 2024-08-21 161335](https://github.com/user-attachments/assets/24f27a10-0806-44c7-9113-6cc4249bf13d)
 
 
 
