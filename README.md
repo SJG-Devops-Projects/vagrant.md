@@ -69,8 +69,9 @@ Create a Vagrantfile by initializing Vagrant indicating the base box with the co
 ``` 
 Vagrant init ubuntu/bionic64
 ```
-
 ![Screenshot 2024-08-21 161335](https://github.com/user-attachments/assets/24f27a10-0806-44c7-9113-6cc4249bf13d)
+
+![Screenshot 2024-08-11 213523](https://github.com/user-attachments/assets/4c2bc116-b18c-459e-a7e2-4d60b545f642)
 
 
 
