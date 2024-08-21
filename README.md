@@ -214,7 +214,7 @@ On your browser, type http://localhost:8080.
 
 5. Customise the Vagrantfile.
 
-
+Create a new folder named **app** inside the Devopsenv folder  
 
 
 
