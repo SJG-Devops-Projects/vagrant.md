@@ -62,18 +62,25 @@ Open your newly created folder, right click and then scroll down to open in term
 
 ![Screenshot 2024-08-21 142659](https://github.com/user-attachments/assets/7497015c-d53d-42a3-9f8b-6284df854766)
 
+
+
 ![Screenshot 2024-08-21 160532](https://github.com/user-attachments/assets/89dd71cb-25d4-4c6e-a2dd-b89364955ea4)
 
+Click on Terminal, then New Terminal to open your terminal on VS Code.
+
 ![Screenshot 2024-08-21 164809](https://github.com/user-attachments/assets/6d8bedc3-d261-45bf-a495-42a163e646dd)
+
+Click on the dropdown arrow and select Git bash or any other terminal of your choice.
 
 ![Screenshot 2024-08-21 164850](https://github.com/user-attachments/assets/a22580cd-f0aa-4a82-9499-6dc7bb7cdaa5)
 
 
-Create a Vagrantfile by initializing Vagrant indicating the base box with the code below.
+Create a Vagrantfile by initializing Vagrant and indicating the base box with the code below.
 
 ``` 
 Vagrant init ubuntu/bionic64
 ```
+
 ![Screenshot 2024-08-21 161335](https://github.com/user-attachments/assets/24f27a10-0806-44c7-9113-6cc4249bf13d)
 
 A Vagrantfile will be created inside your folder.
@@ -175,11 +182,23 @@ vagrant reload --provision
 ```
 ![Screenshot 2024-08-12 101208](https://github.com/user-attachments/assets/2fba0988-8d71-4330-82b4-ef5a284d52e3)
 
-Then type the following code to connect the guest machine from the host.
+Then, type the following code to connect to the guest machine from the host.
 
 ```
 vagrant ssh
 ```
+
+Once connected, check for the location of the Nginx and confirm the version with the codes below.
+
+```
+which nginx
+```
+```
+nginx -v
+```
+
+![Screenshot 2024-08-21 220626](https://github.com/user-attachments/assets/4fae7f13-23d1-412a-8996-a107e471621d)
+
 
 
 
