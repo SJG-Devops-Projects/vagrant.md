@@ -212,17 +212,29 @@ On your browser, type http://localhost:8080.
 
 ![Screenshot 2024-08-12 100942](https://github.com/user-attachments/assets/60b6bc67-4fc8-4d39-b5d2-c1a73623b9a1)
 
-Check the Guest machine too. Type the code below.
+ Type the code below to check Nginx in the Guest machine too.
+
+```
+curl localhost
+```
+![Screenshot 2024-08-12 101029](https://github.com/user-attachments/assets/c468a391-e06b-4c4c-b559-539ef9632a96)
 
 ### 5. Customise the Vagrantfile.
 
 Create a new folder named **app** inside the Devopsenv folder.  
 
+![Screenshot 2024-08-18 205222](https://github.com/user-attachments/assets/ad0a6fd5-0c31-4405-95cd-1972547ed4d0)
 
+Create an index.html file inside your app folder.
 
+![Screenshot 2024-08-18 205302](https://github.com/user-attachments/assets/fa28306e-6037-431e-be07-dd96d0048c99)
 
+In your vagrantfile, Type in the following code to sync the host folder ./app to /var/www/html on the guest.
 
-
+```
+config.vm.synced_folder "./app", "/var/www/html/"
+```
+![Screenshot 2024-08-18 205554](https://github.com/user-attachments/assets/ba6e845d-75f1-4785-8b1f-75e29dc5a84c)
 
 
 
