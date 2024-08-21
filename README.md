@@ -39,6 +39,9 @@ Click on the download button.
 
 ![Screenshot 2024-08-21 113130](https://github.com/user-attachments/assets/2f25fed3-d7e6-40be-adb2-af0f49cdc91b)
 
+Select the appropriate binary for your operating system. Mine is windows with 64bits
+
+![Screenshot 2024-08-08 125655](https://github.com/user-attachments/assets/b94f5626-2df4-42ec-a24f-88c6e4d9d6e9)
 
 
 
