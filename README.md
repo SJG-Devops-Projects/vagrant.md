@@ -31,4 +31,11 @@ Once the installation is completed, click the finish button to exit the setup wi
 
 ![Screenshot 2024-08-19 102922](https://github.com/user-attachments/assets/8f4c21cb-82e1-4be6-8a72-2e7237114c21)
 
-Next, search for Vagrant on Google to download it.
+Next, search for Vagrant on Google to download it. Click on Vagrant by Hashicorp.
+
+![Screenshot 2024-08-21 113107](https://github.com/user-attachments/assets/ea89efb3-0251-4412-a427-5a7b5957c4f7)
+
+Click on the download button.
+
+![Screenshot 2024-08-21 113130](https://github.com/user-attachments/assets/2f25fed3-d7e6-40be-adb2-af0f49cdc91b)
+
