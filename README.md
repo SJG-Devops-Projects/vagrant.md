@@ -58,7 +58,7 @@ To start with, open a location on your system eg. desktop. Right-click on a spac
 
 ![Screenshot 2024-08-21 143342](https://github.com/user-attachments/assets/a5ae174f-c5d0-43b2-90bb-35c42f449b10)
 
-Open your newly created folder, right click and then scroll down to open in terminal. once your terminal is opened, type in code and hit on the enter button.This would open your visual studio (you must have downloaded the visual studio on your computer)
+Open your newly created folder, right click and then scroll down to open in terminal. once your terminal is opened, type in code and hit on the enter button.This would open your visual studio code (you must have downloaded the visual studio code on your computer)
 
 ![Screenshot 2024-08-21 142659](https://github.com/user-attachments/assets/7497015c-d53d-42a3-9f8b-6284df854766)
 
