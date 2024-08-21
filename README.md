@@ -75,13 +75,20 @@ A Vagrantfile will be created inside your folder.
 
 ![Screenshot 2024-08-11 213523](https://github.com/user-attachments/assets/4c2bc116-b18c-459e-a7e2-4d60b545f642)
 
+Search for Vagrantfile Generator on your search engine.
 
-
-t
 
 ![Screenshot 2024-08-11 192333](https://github.com/user-attachments/assets/06899ed3-66fe-4c94-8127-b0aaad381774)
 
-g
+Type in and select the following to generate Vagrant configuration file.
+
+Base box: ubuntu/bionic64
+
+Provider: Virtualbox
+
+Memory: 512 MB
+
+CPUs: 1 cores
 
 ![Screenshot 2024-08-21 165602](https://github.com/user-attachments/assets/c432af28-52cb-4aff-9dbd-3b9e6bc2f9af)
 
