@@ -154,12 +154,14 @@ sudo apt update -y
 sudo apt install nginx -y
 sudo systemctl start nginx
 ```
+![Screenshot 2024-08-11 234047](https://github.com/user-attachments/assets/9b27502e-68fd-415f-8197-1717b96da2a5)
 
 On your terminal type the code below to provision the machine.
 
 ```
 vagrant reload --provision
 ```
+
 Then type the following code to connect the guest machine from the host.
 
 ```
