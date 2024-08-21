@@ -96,11 +96,11 @@ CPUs: 1 cores
 
 ![Screenshot 2024-08-21 175306](https://github.com/user-attachments/assets/c249ac28-e8c0-43b7-abc3-4105c20ca326)
 
-s
 
-![Screenshot 2024-08-21 165743](https://github.com/user-attachments/assets/764ba98f-0838-49f2-b0d0-453958da3ffb)
 
-a
+![Screenshot 2024-08-21 170707](https://github.com/user-attachments/assets/319e089c-2124-4955-9df6-3f7d90281030)
+
+Copy the generated configuration file into your Vagrantfile on your VS Code.
 
 ![Screenshot 2024-08-11 213453](https://github.com/user-attachments/assets/05472675-8432-4a27-a512-41dc7ba8e370)
 
