@@ -236,8 +236,21 @@ config.vm.synced_folder "./app", "/var/www/html/"
 ```
 ![Screenshot 2024-08-18 205554](https://github.com/user-attachments/assets/ba6e845d-75f1-4785-8b1f-75e29dc5a84c)
 
+### 5. Re-provision and Verify.
 
+Type the code ``` vagrant reload --provision ``` in your terminal to re-provision the virtual machine and syncronize the folder.
 
+In your host machine's index.html file, Type ***"Hi buddy, Your Vagrant Environment Setup is Successful!"***
+
+![Screenshot 2024-08-21 235744](https://github.com/user-attachments/assets/5796eb9c-a981-436a-a1a3-a634d1797ff4)
+
+Refresh the browser to access http://localhost:8080 again to verify that it now displays the content of the custom index.html file
+
+![Screenshot 2024-08-21 233835](https://github.com/user-attachments/assets/c01e88bb-5302-4732-92b4-c4c3533499b0)
+
+You can also check the guest machine to confirm that the same thing is displayed on it.
+
+![Screenshot 2024-08-21 234156](https://github.com/user-attachments/assets/76aff5e4-6f79-4b62-a950-7aebe4734793)
 
 
 
