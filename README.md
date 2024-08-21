@@ -119,9 +119,13 @@ vagrant status
 ```
 ![Screenshot 2024-08-11 213734](https://github.com/user-attachments/assets/eeb4ab86-6c3f-4d28-9d91-4990a67e96d5)
 
+Next is the network. To forward port 8080 on the host to port 80 on the guest, type the code below in your vagrantfile.
 
+```
+config.vm.network "forwarded_port", guest: 80, host: 8080
+```
 
-
+![Screenshot 2024-08-11 215352](https://github.com/user-attachments/assets/bfcbbca6-e11b-4115-abb5-a1fdc4dded35)
 
 
 
