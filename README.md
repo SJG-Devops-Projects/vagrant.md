@@ -199,9 +199,20 @@ nginx -v
 
 ![Screenshot 2024-08-21 220626](https://github.com/user-attachments/assets/4fae7f13-23d1-412a-8996-a107e471621d)
 
+Logout of the guest machine with
+
+```
+Exit
+```
+4. Test the Setup.
+
+Verify that the virtual machine is correctly set up by accessing the Nginx welcome page from your host machine's browser.
+On your browser, type http://localhost:8080.
 
 
+![Screenshot 2024-08-12 100942](https://github.com/user-attachments/assets/60b6bc67-4fc8-4d39-b5d2-c1a73623b9a1)
 
+5. Customise the Vagrantfile.
 
 
 
