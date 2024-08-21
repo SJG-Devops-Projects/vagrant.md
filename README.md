@@ -72,22 +72,30 @@ Vagrant init ubuntu/bionic64
 ![Screenshot 2024-08-21 161335](https://github.com/user-attachments/assets/24f27a10-0806-44c7-9113-6cc4249bf13d)
 
 u
+
 ![Screenshot 2024-08-11 213523](https://github.com/user-attachments/assets/4c2bc116-b18c-459e-a7e2-4d60b545f642)
 
+
+
 t
+
 ![Screenshot 2024-08-11 192333](https://github.com/user-attachments/assets/06899ed3-66fe-4c94-8127-b0aaad381774)
 
 g
+
 ![Screenshot 2024-08-21 165602](https://github.com/user-attachments/assets/c432af28-52cb-4aff-9dbd-3b9e6bc2f9af)
 
 f
+
 ![Screenshot 2024-08-21 165707](https://github.com/user-attachments/assets/4645769f-7a93-4368-80a7-3bcd960518c5)
 
 
 s
+
 ![Screenshot 2024-08-21 165743](https://github.com/user-attachments/assets/764ba98f-0838-49f2-b0d0-453958da3ffb)
 
 a
+
 ![Screenshot 2024-08-11 213453](https://github.com/user-attachments/assets/05472675-8432-4a27-a512-41dc7ba8e370)
 
 
